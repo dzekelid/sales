@@ -1,0 +1,565 @@
+{
+	"name": "Streadata.io API Gallery - Sales",
+	"description": "This is a repository of sales APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/sales.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://sales.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Reverb",
+			"x-api-slug": "reverb",
+			"description": "Reverb&#8217;s mission is to connect people with meaningful content.Reverb was created to find and connect the rich associations between words, ideas, content, and people. Through our products, we enhance broader knowledge around favorite topics by surfacing interesting information readers might not uncover on their own. We make tools for content understanding at every level from the single word on up. Wordnik: Get a full view of any word you???re interested in, with definitions, example sentences, related words, tweets from Twitter, pictures from Flickr, and much more.Reverb for Publishers: Reverb for Publishers brings relevant content to web audiences and surfaces additional content for publishers.Reverb for Developers: Reverb is committed to the open-source community and is proudly contributing infrastructure software to power applications and enterprises both small and gigantic. Our involvement with the Wordnik API, Scalatra, Swagger and Atmosphere is detailed on our site.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/145_logo.png",
+			"humanURL": "https://helloreverb.com/app",
+			"baseURL": "https://api.reverb.com//api",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/reverb/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Salesforce",
+			"x-api-slug": "salesforce",
+			"description": "Build more meaningful and lasting relationships and connect with your customers across sales, customer service, marketing, communities, apps, analytics, and more using our Customer Success Platform. Try for Free.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/175-salesforce.jpg",
+			"humanURL": "http://developer.salesforce.com",
+			"baseURL": "https://na14.salesforce.com//services/data/",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/salesforce/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Eventbrite",
+			"x-api-slug": "eventbrite",
+			"description": "Eventbrite brings people together through live experiences. Discover events that match your passions, or create your own with online ticketing tools.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/193-eventbrite.jpg",
+			"humanURL": "http://eventbriteapi.com",
+			"baseURL": "https://www.eventbrite.com//%7Bdata-type%7D/",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/eventbrite/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HubSpot",
+			"x-api-slug": "hubspot",
+			"description": "HubSpot is on a mission to replace the world&rsquo;s annoying, interruptive marketing with marketing that people love. HubSpot software is the most powerful, tightly integrated and comprehensive marketing software available, putting personalized inbound marketing into the hands of any business. Over 8,000 companies in 56 countries use our software to create lovable inbound marketing to attract, nurture and convert leads into an accelerating stream of new customers and revenue. HubSpot is also the developer of the popular website analysis tool, MarketingGrader.com, which has over 3 million users and grades upwards of 250,000 companies per month.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/213-hubspot-product-team.jpg",
+			"humanURL": "http://www.hubspot.com/",
+			"baseURL": "https:///",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/hubspot/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Viddler",
+			"x-api-slug": "viddler",
+			"description": "Viddler is an online sales training platform with integrated tools for practice and evaluation. The Viddler service offers video-based instruction and optional coaching, and allows customers to engage with course content through guided assignments and self-recorded practice sessions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/274-viddler.jpg",
+			"humanURL": "http://www.viddler.com/",
+			"baseURL": "https://api.viddler.com//api/v2",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/viddler/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Xignite",
+			"x-api-slug": "xignite",
+			"description": "Financial market data on-demand. Xignite financial Web services help build smarter websites and applications in minutes with zero up-front investment.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png",
+			"humanURL": "http://www.xignite.com",
+			"baseURL": "https://www.xignite.com/xVWAP.json/XigniteVWAP",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/xignite/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Accelo",
+			"x-api-slug": "accelo",
+			"description": "The #1 Service Operations Automation (ServOps) featuring sales, project management, email integration, retainer management, sales tracking, and support.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/320-accelo.jpg",
+			"humanURL": "https://www.accelo.com/",
+			"baseURL": "https:///",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/accelo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "agendize",
+			"x-api-slug": "agendize",
+			"description": "Agendize is the most complete customer engagement platform on the market, providing over 100,000 businesses with customizable ways to let their customers call, chat, book appointments and more.    As a leading provider of these solutions, Agendize has ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/322-agendize.jpg",
+			"humanURL": "http://www.agendize.com/",
+			"baseURL": "https:///",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/agendize/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Service Objects",
+			"x-api-slug": "service-objects",
+			"description": "With our suite of data verification APIs for phone, email, address and more, you can keep your businesss database clean, accurate, and up to date.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/371-service-objects.jpg",
+			"humanURL": "http://www.serviceobjects.com/",
+			"baseURL": "https:///",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/service-objects/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PipelineDeals",
+			"x-api-slug": "pipelinedeals",
+			"description": "Customer relationship management (CRM) and sales pipeline management software to organize, track, and manage your sales pipeline, deals, leads, and contacts. 14 Day Free Trial for your sales force.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/457-pipelinedeals.jpg",
+			"humanURL": "https://www.pipelinedeals.com",
+			"baseURL": "https:///",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/pipelinedeals/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Tactile CRM",
+			"x-api-slug": "tactile-crm",
+			"description": "Easy and simple to use affordable Web Based CRM. Contact management, sales pipeline reporting & email management from 6/$9/month",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/493-tactile-crm.jpg",
+			"humanURL": "http://www.tactilecrm.com/api/",
+			"baseURL": "https:///",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/tactile-crm/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Workbooks.com",
+			"x-api-slug": "workbooks-com",
+			"description": "Workbooks&#8217; solutions are designed for the needs of small and medium sized businesses providing you with the right tools to make your business more successful. They are fast and easy to use, competitively priced and as there&#8217;s no hardware or software required, Workbooks is quick to implement - you can be up and running in days; what???????s more you can access your data from anywhere with an Internet connection.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/677_logo.png",
+			"humanURL": "http://www.workbooks.com/workbooks-api",
+			"baseURL": "https:///",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/workbooks-com/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "InsideSales.com",
+			"x-api-slug": "insidesales-com",
+			"description": "InsideSales.com provides you with a revolutionary lead tracking software to improve your sales lead management. Contact us today for a demo and sell more!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/819-insidesales-com.jpg",
+			"humanURL": "http://www.insidesales.com/developers",
+			"baseURL": "https:///",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/insidesales-com/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MINDBODY",
+			"x-api-slug": "mindbody",
+			"description": "See how MINDBODY business management software serves gyms, spas and salons worldwide, and helps people find and book with them.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/850-mindbody.jpg",
+			"humanURL": "http://www.mindbodyonline.com",
+			"baseURL": "https:///",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/mindbody/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OnePageCRM",
+			"x-api-slug": "onepagecrm",
+			"description": "OnePageCRM is a simple online sales CRM for you & your sales team. Focus on your Next Action to easily convert leads into customers and grow your business.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/874-onepagecrm.jpg",
+			"humanURL": "http://www.onepagecrm.com",
+			"baseURL": "https:///",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/onepagecrm/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Coffee Bean Tech",
+			"x-api-slug": "coffee-bean-tech",
+			"description": "Customer Identity to increase revenue, customer retention and customer experience.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1001-coffee-bean-tech.jpg",
+			"humanURL": "http://coffeebeantech.com",
+			"baseURL": "https:///",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/coffee-bean-tech/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Base",
+			"x-api-slug": "base",
+			"description": "Base built the first scientific sales platform that empowers businesses to grow revenue in a way thats measurable, repeatable and scalable. Unlike legacy cloud CRM and sales force automation systems, Base offers an all-in-one solution that increases r...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1063-base.jpg",
+			"humanURL": "https://getbase.com/",
+			"baseURL": "https:///",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/base/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "LiveOps",
+			"x-api-slug": "liveops",
+			"description": "Liveops is a pioneer in the contact center industry, with the largest U.S.-based cloud contact center of more than 20,000 home-based, independent agents. In 2000, we started the journey to help establish the work-from-home model in customer service. Si...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1338-liveops.jpg",
+			"humanURL": "http://liveops.com/",
+			"baseURL": "https:///",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/liveops/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Datanyze",
+			"x-api-slug": "datanyze",
+			"description": "Datanyze is the leading technographics provider, helping B2B companies apply unique technology insights to identify and close their best accounts.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1401-datanyze.jpg",
+			"humanURL": "http://www.datanyze.com/api-documentation/",
+			"baseURL": "https:///",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/datanyze/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Intuit",
+			"x-api-slug": "intuit",
+			"description": "See how the power of Intuit Giants can work for you by joining the over 46 million people already using TurboTax, QuickBooks and Mint to power their financial prosperity.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9544-intuit.jpg",
+			"humanURL": "https://intuit.com",
+			"baseURL": "https://DefaultParameterValue//v3/company/DefaultParameterValue",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/intuit/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "3dcart",
+			"x-api-slug": "3dcart",
+			"description": "The 3dcart shopping cart software is a complete web store solution for anyone looking to start an online business, add a shopping cart to their existing website, or to replace their existing shopping cart platform. 3dcart includes the latest, most innovative features, tools, support and technology needed to build, promote and grow your online business.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21488-www-3dcart-com.jpg",
+			"humanURL": "http://www.3dcart.com",
+			"baseURL": "https://apirest.3dcart.com//",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/3dcart/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AXA Assistance",
+			"x-api-slug": "axa-assistance",
+			"description": "AXA Assistance is a worldwide specialist for car insurance, travel, health and home services. Trust in Axa Assistance for your insurance!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg",
+			"humanURL": "https://www.axa-assistance.com",
+			"baseURL": "https://sandbox.api.axa-assistance.com//",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/axa-assistance/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Talkable",
+			"x-api-slug": "talkable",
+			"description": "Talkable Social Referrals helps brands acquire new customers with endorsements from current customers. As the web becomes more person-centric, consumers trust the recommendations of their friends more than traditional advertising. By optimizing for higher conversion rates and identifying social influencers, weve achieved as high as a 58% lift in new sales.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28399-www-talkable-com.jpg",
+			"humanURL": "https://www.talkable.com",
+			"baseURL": "https:///",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/talkable/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SalesLoft",
+			"x-api-slug": "salesloft",
+			"description": "SalesLoft, the leading sales engagement platform, transforms the way sellers engage with their customers by delivering a better selling experience. Our sales engagement platform helps teams set and execute on a cadence of phone, email, and social communications to convert more target accounts into customer accounts. The platform equips sales leaders with new capabilities to test, learn and adapt to ensure their sales reps execute on the most effective selling process for their account-based approach. SalesLoft delivers access to an extensive ecosystem of 3rd party integrations allowing teams to perform all their sales engagement from a single platform.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/salesloft.png",
+			"humanURL": "http://salesloft.com",
+			"baseURL": "https://api.salesloft.com//",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/salesloft/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ATTOM",
+			"x-api-slug": "attom",
+			"description": "Search public property records including real estate data: sale, ownership, tax, and more - for more than 150 million U.S. properties. ATTOM Data Solutions is the curator of ATTOM, a multi-sourced national property data warehouse that contains tax, deed, mortgage, foreclosure, environmental risk, natural hazard, health hazard, neighborhood characteristic and property characteristic data for over 155 million U.S. properties, delivering actionable data to clients and powering consumer websites owned by ATTOM Data Solutions: RealtyTrac.com, Homefacts.com, and HomeDisclosure.com.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28881-api-developer-attomdata-com.jpg",
+			"humanURL": "https://api.developer.attomdata.com",
+			"baseURL": "https://search.onboard-apis.com//communityapi/v2.0.0",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/attom/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "GIG & CROWD",
+			"x-api-slug": "gig--crowd",
+			"description": "A unique system of the order and booking of artists: negotiations, coordination of conditions, convenient reminders of fee payment terms and rider preparation.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gigandcrowd.png",
+			"humanURL": "https://gigandcrowd.com",
+			"baseURL": "https://gigandcrowd.com//",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/gig--crowd/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Plentymarkets",
+			"x-api-slug": "plentymarkets",
+			"description": "plentymarkets is an all-in-one e-commerce ERP solution, which combines a comprehensive stock management system with a versatile shop system and effortless multichannel sales. Thanks to comprehensive functions and interfaces that include all steps of the e-commerce value chain, you can use the cloud based software to completely automate all of your e-business processes as well as your companys own individual processes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png",
+			"humanURL": "http://www.plentymarkets.co.uk",
+			"baseURL": "https://example.com//",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/plentymarkets/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/dezrez/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ChainGenie",
+			"x-api-slug": "chaingenie",
+			"description": "ChainGenie provides a plug and play platform that helps you connect your existing (or create new) applications to DLTs for lodging and workflow management using a simple easy to use user interface. ChainGenie is a platform to create blockchain apps that provide speed-to-market for companies looking to launch faster, rather than reinvent the wheel. Write your applications to run on popular Blockchain networks like Ethereum, Bitcoin Blockchain etc with great ease when you require to validate credentials or make your existing traditional applications use the power of DLT and blockchain overnight!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28902-api-chaingenie-com.jpg",
+			"humanURL": "http://chaingenie.com",
+			"baseURL": "https://api.chaingenie.com//api/v1",
+			"tags": "Sales",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/chaingenie/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Sales",
+	"include": [
+		{
+			"name": "Reverb",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/reverb/apis.yaml"
+		},
+		{
+			"name": "Salesforce",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/salesforce/apis.yaml"
+		},
+		{
+			"name": "Eventbrite",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/eventbrite/apis.yaml"
+		},
+		{
+			"name": "HubSpot",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/hubspot/apis.yaml"
+		},
+		{
+			"name": "Viddler",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/viddler/apis.yaml"
+		},
+		{
+			"name": "Xignite",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/xignite/apis.yaml"
+		},
+		{
+			"name": "Accelo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/accelo/apis.yaml"
+		},
+		{
+			"name": "agendize",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/agendize/apis.yaml"
+		},
+		{
+			"name": "Service Objects",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/service-objects/apis.yaml"
+		},
+		{
+			"name": "PipelineDeals",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/pipelinedeals/apis.yaml"
+		},
+		{
+			"name": "Tactile CRM",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/tactile-crm/apis.yaml"
+		},
+		{
+			"name": "Workbooks.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/workbooks-com/apis.yaml"
+		},
+		{
+			"name": "InsideSales.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/insidesales-com/apis.yaml"
+		},
+		{
+			"name": "MINDBODY",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/mindbody/apis.yaml"
+		},
+		{
+			"name": "OnePageCRM",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/onepagecrm/apis.yaml"
+		},
+		{
+			"name": "Coffee Bean Tech",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/coffee-bean-tech/apis.yaml"
+		},
+		{
+			"name": "Base",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/base/apis.yaml"
+		},
+		{
+			"name": "LiveOps",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/liveops/apis.yaml"
+		},
+		{
+			"name": "Datanyze",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/datanyze/apis.yaml"
+		},
+		{
+			"name": "Intuit",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/intuit/apis.yaml"
+		},
+		{
+			"name": "3dcart",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/3dcart/apis.yaml"
+		},
+		{
+			"name": "AXA Assistance",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/axa-assistance/apis.yaml"
+		},
+		{
+			"name": "Talkable",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/talkable/apis.yaml"
+		},
+		{
+			"name": "SalesLoft",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/salesloft/apis.yaml"
+		},
+		{
+			"name": "ATTOM",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/attom/apis.yaml"
+		},
+		{
+			"name": "GIG & CROWD",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/gig--crowd/apis.yaml"
+		},
+		{
+			"name": "Plentymarkets",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/plentymarkets/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/dezrez/apis.yaml"
+		},
+		{
+			"name": "ChainGenie",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sales/master/_listings/chaingenie/apis.yaml"
+		}
+	]
+}
